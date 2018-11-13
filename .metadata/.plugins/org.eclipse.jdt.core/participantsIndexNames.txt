@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Dropbox\eclipse-workspace\ASS06\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\409138550.index
+\YanKarloNikeshAsgn6ElectionWeb\src

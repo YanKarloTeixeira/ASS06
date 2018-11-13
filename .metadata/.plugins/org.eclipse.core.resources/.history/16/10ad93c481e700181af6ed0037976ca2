@@ -1,0 +1,21 @@
+package yan.nikesh.election.entities;
+
+import java.io.Serializable;
+import javax.persistence.*;
+
+/**
+ * Entity implementation class for Entity: Candidate
+ *
+ */
+@Entity
+
+public class Candidate implements Serializable {
+
+	
+	private static final long serialVersionUID = 1L;
+
+	public Candidate() {
+		super();
+	}
+   
+}

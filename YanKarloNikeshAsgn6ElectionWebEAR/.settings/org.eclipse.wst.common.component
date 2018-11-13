@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="YanKarloNikeshAsgn6ElectionWebEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="YanKarloNikeshAsgn6ElectionWeb.war" deploy-path="/" handle="module:/resource/YanKarloNikeshAsgn6ElectionWeb/YanKarloNikeshAsgn6ElectionWeb">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="YanKarloNikeshElectionJPA.jar" deploy-path="/lib" handle="module:/resource/YanKarloNikeshElectionJPA/YanKarloNikeshElectionJPA">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

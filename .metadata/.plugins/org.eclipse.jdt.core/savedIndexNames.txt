@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Dropbox\eclipse-workspace\ASS06\.metadata\.plugins\org.eclipse.jdt.core
+513376674.index
+3973167503.index
